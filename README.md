@@ -3,7 +3,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nanor4k&theme=vue-dark&show_icons=true)
 
 ## ABOUT ME
-- Hi devs, I'm Lucas Lima, 
+- Hi, I'm Lucas Lima !
 
 - <a href="https://monocard.com.br/u/nanor4k/" target="_blank"> Contact</a>
 
