@@ -16,4 +16,4 @@
 
 ### Tools
 
-<img src='https://pbs.twimg.com/profile_images/1171023226/image_400x400.png' width="30px"><img src='https://progsoft.net/images/fusion-360-icon-8d6f1ebda7a6fa6f6c9ba8290ed5876c6277f846.png' width="30px"><img src='https://o.remove.bg/downloads/c3fc3d10-b998-4aa6-aa1c-035c90dc8b65/image-removebg-preview.png' width="30px"> <img src='https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png' width="30px">
+<img src='https://pbs.twimg.com/profile_images/1171023226/image_400x400.png' width="30px"><img src='https://progsoft.net/images/fusion-360-icon-8d6f1ebda7a6fa6f6c9ba8290ed5876c6277f846.png' width="30px"> <img src='https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png' width="30px">
