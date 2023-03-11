@@ -3,7 +3,7 @@
 ## ABOUT ME
 - Hi, I'm Lucas L. Gomes, currently studying mechanical engineering and working on CFD & programming on free time !
 
-<img src='https://img.shields.io/badge/CPU%20(SGEMM)-813.9%20GFLOPS-blue'> <img src='https://img.shields.io/badge/CUDA%20GPUs-13.6-brightgreen'>
+<img src='https://img.shields.io/badge/CPU%20(SGEMM)-813.9%20GFLOPS-blue'> <img src='https://img.shields.io/badge/CUDA%20GPUs-19.7-brightgreen'>
 
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/YszkZuQWLiI2ULGbAvaBGg.png">
